@@ -1,4 +1,6 @@
 # Base Account SDK
+> ⚠️ **Fork notice:** This repository is a fork of the original Account SDK project.  
+> Please refer to the upstream repository for the canonical implementation and latest updates.
 
 [![npm](https://img.shields.io/npm/v/@base-org/account.svg)](https://www.npmjs.com/package/@base-org/account)
 
